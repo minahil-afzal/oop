@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\SING IN\SING IN\bin\Debug\SING IN.exe.config
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\SING IN\SING IN\bin\Debug\SING IN.exe
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\SING IN\SING IN\bin\Debug\SING IN.pdb
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\SING IN\SING IN\obj\Debug\SING IN.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\SING IN\SING IN\obj\Debug\SING IN.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\SING IN\SING IN\obj\Debug\SING IN.exe
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\SING IN\SING IN\obj\Debug\SING IN.pdb

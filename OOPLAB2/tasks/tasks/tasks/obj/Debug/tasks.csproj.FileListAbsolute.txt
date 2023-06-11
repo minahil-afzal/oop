@@ -1,0 +1,7 @@
+D:\SEMESTER02\OOP LAB\week02\tasks\tasks\tasks\bin\Debug\tasks.exe.config
+D:\SEMESTER02\OOP LAB\week02\tasks\tasks\tasks\bin\Debug\tasks.exe
+D:\SEMESTER02\OOP LAB\week02\tasks\tasks\tasks\bin\Debug\tasks.pdb
+D:\SEMESTER02\OOP LAB\week02\tasks\tasks\tasks\obj\Debug\tasks.csproj.AssemblyReference.cache
+D:\SEMESTER02\OOP LAB\week02\tasks\tasks\tasks\obj\Debug\tasks.csproj.CoreCompileInputs.cache
+D:\SEMESTER02\OOP LAB\week02\tasks\tasks\tasks\obj\Debug\tasks.exe
+D:\SEMESTER02\OOP LAB\week02\tasks\tasks\tasks\obj\Debug\tasks.pdb

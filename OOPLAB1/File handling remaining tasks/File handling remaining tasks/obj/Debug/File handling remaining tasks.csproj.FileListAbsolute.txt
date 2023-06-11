@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\File handling remaining tasks\File handling remaining tasks\bin\Debug\File handling remaining tasks.exe.config
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\File handling remaining tasks\File handling remaining tasks\bin\Debug\File handling remaining tasks.exe
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\File handling remaining tasks\File handling remaining tasks\bin\Debug\File handling remaining tasks.pdb
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\File handling remaining tasks\File handling remaining tasks\obj\Debug\File handling remaining tasks.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\File handling remaining tasks\File handling remaining tasks\obj\Debug\File handling remaining tasks.exe
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\File handling remaining tasks\File handling remaining tasks\obj\Debug\File handling remaining tasks.pdb
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\File handling remaining tasks\File handling remaining tasks\obj\Debug\File handling remaining tasks.csproj.AssemblyReference.cache

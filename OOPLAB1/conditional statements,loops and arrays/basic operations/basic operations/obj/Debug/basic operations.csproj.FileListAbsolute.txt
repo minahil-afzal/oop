@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\basic operations\basic operations\obj\Debug\basic operations.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\basic operations\basic operations\obj\Debug\basic operations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\basic operations\basic operations\bin\Debug\basic operations.exe.config
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\basic operations\basic operations\bin\Debug\basic operations.exe
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\basic operations\basic operations\bin\Debug\basic operations.pdb
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\basic operations\basic operations\obj\Debug\basic operations.exe
+C:\Users\HP\Documents\SEMESTER02\OOP LAB\week01\basic operations\basic operations\obj\Debug\basic operations.pdb
